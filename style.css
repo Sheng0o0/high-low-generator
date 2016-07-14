@@ -1,0 +1,37 @@
+body{
+    background-size: cover;
+}
+h1{
+    color:#4dffc3;
+    text-align: center;
+    font-size: 100px;
+    font-family: cursive;
+}
+
+#easy{
+    color:#4dffff;
+    font-family: cursive;
+    font-size: 30px;
+    position: absolute;
+    top:450px;
+    left:400px;
+    background-color: #bfbfbf;
+}
+#medium{
+    color:#4dffff;
+    font-family: cursive;
+    font-size: 30px;
+    position: absolute;
+    top:450px;
+    left:800px;
+    background-color: #bfbfbf;
+}
+#hard{
+    color:#4dffff;
+    font-family: cursive;
+    font-size: 30px;
+    position: absolute;
+    top:450px;
+    left:1200px;
+    background-color: #bfbfbf;
+}

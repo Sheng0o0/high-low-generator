@@ -1,0 +1,25 @@
+body {
+  text-align: center;
+}
+
+button {
+  font-size: 30px;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+p {
+  font-size: 18px;
+  color: purple;
+}
+
+#pass{
+    width: 300px;
+    height: 40px;
+    font-size: 18px;
+    }
+    
+#result{
+    font-size: 30px;
+    color: green;
+    }
